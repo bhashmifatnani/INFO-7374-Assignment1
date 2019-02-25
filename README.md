@@ -5,3 +5,7 @@ Implementation of different MLP models for CIFAR-10 Dataset and compared each of
 
 Also build CNN with and without Data Augmentation
 Youtube link of findings : https://youtu.be/IiEqd8UuVKM
+
+Assignment 2
+Nvidia Course: Fundamentals of Deep Learing for Computer Vision
+Documentation and readings of full course.
